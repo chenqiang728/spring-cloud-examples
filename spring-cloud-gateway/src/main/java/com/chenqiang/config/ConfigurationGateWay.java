@@ -16,4 +16,5 @@ public class ConfigurationGateWay {
                         .uri("http://ityouknow.com"))
                 .build();
     }
+
 }
